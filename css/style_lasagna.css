@@ -1,0 +1,53 @@
+body {
+    background-color: #161616;
+    color: rgb(196, 191, 191);
+
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.title{
+    color: white;
+}
+
+h1{
+    text-align: center;
+    font-weight: 800;
+}
+
+.lasagne_img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.description {
+    text-align: center;
+    margin-bottom: 50px;    
+}
+.description p {
+    font-size: 18px;
+}
+
+.ingredients {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;  
+}
+
+.ingredients strong {
+    color: rgb(185, 42, 66);
+}
+
+.ingredients h2 {
+    margin-left: 32.5%;
+}
+
+.directions strong {
+    color: rgb(185, 42, 66);
+}
+
+.directions h2 {
+    margin-left: 47.5%;
+}
+
